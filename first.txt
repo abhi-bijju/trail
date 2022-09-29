@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ;asa;lkhoasdhbkvhohbpopbho;;alghlsk;dhg;lkasdglkl;h;
+=======
+;alghlsk;dhg;lkasdglkl;h;
+algnasldkgklsdajg'sadjg
+>>>>>>> 70a6c222afe3bec2265e9c126c597fc383866773
