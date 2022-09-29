@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ;gaslhgaslkg;askg
+=======
+ah;glkdhgasjg;asjgkhsdlg;
+>>>>>>> one
